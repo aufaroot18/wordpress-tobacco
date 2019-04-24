@@ -1,0 +1,4 @@
+2019-04-24T12:45:48+00:00 CRITICAL syntax error, unexpected end of file in /opt/lampp/htdocs/wp/tobacco/wp-content/themes/shop-isle/inc/structure/footer.php on line 137
+
+2019-04-24T12:46:17+00:00 CRITICAL syntax error, unexpected ';' in /opt/lampp/htdocs/wp/tobacco/wp-content/themes/shop-isle/inc/structure/footer.php on line 95
+
